@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+    <Request>
+        <authentication>true</authentication>
+        <key><![CDATA[zhx1IFYlcMTYKWphyYVoYg]]></key>
+        <method><![CDATA[search_index]]></method>
+    </Request>
+    <search>
+        <query><![CDATA[Hooked]]></query>
+        <results-start>1</results-start>
+        <results-end>20</results-end>
+        <total-results>1568</total-results>
+        <source>Goodreads</source>
+        <query-time-seconds>0.05</query-time-seconds>
+        <results>
+            <work>
+                <id type="integer">27477502</id>
+                <books_count type="integer">42</books_count>
+                <ratings_count type="integer">26371</ratings_count>
+                <text_reviews_count type="integer">1594</text_reviews_count>
+                <original_publication_year type="integer">2013</original_publication_year>
+                <original_publication_month type="integer">12</original_publication_month>
+                <original_publication_day type="integer">25</original_publication_day>
+                <average_rating>4.09</average_rating>
+                <best_book type="Book">
+                    <id type="integer">22668729</id>
+                    <title>Hooked: How to Build Habit-Forming Products</title>
+                    <author>
+                        <id type="integer">7284116</id>
+                        <name>Nir   Eyal</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407112405l/22668729._SX98_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407112405l/22668729._SY75_.jpg</small_image_url>
+                </best_book>
+            </work>
+
+            <work>
+                <id type="integer">21520265</id>
+                <books_count type="integer">43</books_count>
+                <ratings_count type="integer">26882</ratings_count>
+                <text_reviews_count type="integer">3136</text_reviews_count>
+                <original_publication_year type="integer">2013</original_publication_year>
+                <original_publication_month type="integer">2</original_publication_month>
+                <original_publication_day type="integer">26</original_publication_day>
+                <average_rating>3.98</average_rating>
+                <best_book type="Book">
+                    <id type="integer">15797397</id>
+                    <title>Salt Sugar Fat: How the Food Giants Hooked Us</title>
+                    <author>
+                        <id type="integer">35345</id>
+                        <name>Michael Moss</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352422829l/15797397._SX98_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352422829l/15797397._SY75_.jpg</small_image_url>
+                </best_book>
+            </work>
+
+            <work>
+                <id type="integer">51577230</id>
+                <books_count type="integer">40</books_count>
+                <ratings_count type="integer">7219</ratings_count>
+                <text_reviews_count type="integer">952</text_reviews_count>
+                <original_publication_year type="integer">2017</original_publication_year>
+                <original_publication_month type="integer">3</original_publication_month>
+                <original_publication_day type="integer">7</original_publication_day>
+                <average_rating>3.86</average_rating>
+                <best_book type="Book">
+                    <id type="integer">30962055</id>
+                    <title>Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked</title>
+                    <author>
+                        <id type="integer">6463598</id>
+                        <name>Adam Alter</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479719623l/30962055._SX98_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479719623l/30962055._SY75_.jpg</small_image_url>
+                </best_book>
+            </work>
+
+            <work>
+                <id type="integer">41475244</id>
+                <books_count type="integer">5</books_count>
+                <ratings_count type="integer">12693</ratings_count>
+                <text_reviews_count type="integer">751</text_reviews_count>
+                <original_publication_year type="integer">2014</original_publication_year>
+                <original_publication_month type="integer">5</original_publication_month>
+                <original_publication_day type="integer">14</original_publication_day>
+                <average_rating>4.14</average_rating>
+                <best_book type="Book">
+                    <id type="integer">22129048</id>
+                    <title>Hooked on the Game (Sterling Shore, #1)</title>
+                    <author>
+                        <id type="integer">6461519</id>
+                        <name>C.M. Owens</name>
+                    </author>
+                    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+                    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+                </best_book>
+            </work>
+
+            <work>
+                <id type="integer">17349946</id>
+                <books_count type="integer">9</books_count>
+                <ratings_count type="integer">2975</ratings_count>
+                <text_reviews_count type="integer">441</text_reviews_count>
+                <original_publication_year type="integer">2013</original_publication_year>
+                <original_publication_month type="integer">1</original_publication_month>
+                <original_publication_day type="integer">1</original_publication_day>
+                <average_rating>3.61</average_rating>
+                <best_book type="Book">
+                    <id type="integer">12369649</id>
+                    <title>Hooked (Hooked, #1)</title>
+                    <author>
+                        <id type="integer">4050842</id>
+                        <name>Liz Fichera</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353472262l/12369649._SX98_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353472262l/12369649._SY75_.jpg</small_image_url>
+                </best_book>
+            </work>
+
+            <work>
+                <id type="integer">42716322</id>
+                <books_count type="integer">5</books_count>
+                <ratings_count type="integer">3581</ratings_count>
+                <text_reviews_count type="integer">277</text_reviews_count>
+                <original_publication_year type="integer">2015</original_publication_year>
+                <original_publication_month type="integer">12</original_publication_month>
+                <original_publication_day type="integer">28</original_publication_day>
+                <average_rating>4.38</average_rating>
+                <best_book type="Book">
+                    <id type="integer">23172091</id>
+                    <title>Hooked by Love (Bellevue Bullies, #3)</title>
+                    <author>
+                        <id type="integer">5255580</id>
+                        <name>Toni Aleo</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447193943l/23172091._SX98_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447193943l/23172091._SY75_.jpg</small_image_url>
+                </best_book>
+            </work>
+
+            <work>
+                <id type="integer">48110176</id>
+                <books_count type="integer">2</books_count>
+                <ratings_count type="integer">1719</ratings_count>
+                <text_reviews_count type="integer">145</text_reviews_count>
+                <original_publication_year type="integer">2015</original_publication_year>
+                <original_publication_month type="integer">12</original_publication_month>
+                <original_publication_day type="integer">28</original_publication_day>
+                <average_rating>3.69</average_rating>
+                <best_book type="Book">
+                    <id type="integer">28369032</id>
+                    <title>Hooked Up (Hooked Up #1)</title>
+                    <author>
+                        <id type="integer">6476195</id>
+                        <name>Arianne Richmonde</name>
+                    </author>
+                    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+                    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+                </best_book>
+            </work>
+
+            <work>
+                <id type="integer">2961349</id>
+                <books_count type="integer">8</books_count>
+                <ratings_count type="integer">2793</ratings_count>
+                <text_reviews_count type="integer">317</text_reviews_count>
+                <original_publication_year type="integer">2008</original_publication_year>
+                <original_publication_month type="integer">5</original_publication_month>
+                <original_publication_day type="integer">6</original_publication_day>
+                <average_rating>3.61</average_rating>
+                <best_book type="Book">
+                    <id type="integer">2933901</id>
+                    <title>Hooked on Murder (Crochet Mystery, #1)</title>
+                    <author>
+                        <id type="integer">1268493</id>
+                        <name>Betty Hechtman</name>
+                    </author>
+                    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+                    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+                </best_book>
+            </work>
+
+            <work>
+                <id type="integer">51054924</id>
+                <books_count type="integer">6</books_count>
+                <ratings_count type="integer">3039</ratings_count>
+                <text_reviews_count type="integer">479</text_reviews_count>
+                <original_publication_year type="integer">2016</original_publication_year>
+                <original_publication_month type="integer">12</original_publication_month>
+                <original_publication_day type="integer">6</original_publication_day>
+                <average_rating>3.91</average_rating>
+                <best_book type="Book">
+                    <id type="integer">30530389</id>
+                    <title>Hooked</title>
+                    <author>
+                        <id type="integer">7010859</id>
+                        <name>Brenda Rothert</name>
+                    </author>
+                    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+                    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+                </best_book>
+            </work>
+
+            <work>
+                <id type="integer">47464942</id>
+                <books_count type="integer">7</books_count>
+                <ratings_count type="integer">2990</ratings_count>
+                <text_reviews_count type="integer">429</text_reviews_count>
+                <original_publication_year type="integer">2016</original_publication_year>
+                <original_publication_month type="integer">7</original_publication_month>
+                <original_publication_day type="integer">5</original_publication_day>
+                <average_rating>3.95</average_rating>
+                <best_book type="Book">
+                    <id type="integer">27415870</id>
+                    <title>Patsy Walker, A.K.A. Hellcat!, Volume 1: Hooked on a Feline</title>
+                    <author>
+                        <id type="integer">7214366</id>
+                        <name>Kate Leth</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466479930l/27415870._SX98_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466479930l/27415870._SY75_.jpg</small_image_url>
+                </best_book>
+            </work>
+
+            <work>
+                <id type="integer">14600333</id>
+                <books_count type="integer">7</books_count>
+                <ratings_count type="integer">1327</ratings_count>
+                <text_reviews_count type="integer">203</text_reviews_count>
+                <original_publication_year type="integer">2011</original_publication_year>
+                <original_publication_month type="integer">8</original_publication_month>
+                <original_publication_day type="integer">9</original_publication_day>
+                <average_rating>3.34</average_rating>
+                <best_book type="Book">
+                    <id type="integer">9711816</id>
+                    <title>Hooked</title>
+                    <author>
+                        <id type="integer">4463913</id>
+                        <name>Catherine Greenman</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320450488l/9711816._SX98_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320450488l/9711816._SY75_.jpg</small_image_url>
+                </best_book>
+            </work>
+
+            <work>
+                <id type="integer">53293907</id>
+                <books_count type="integer">15</books_count>
+                <ratings_count type="integer">1729</ratings_count>
+                <text_reviews_count type="integer">210</text_reviews_count>
+                <original_publication_year type="integer">2017</original_publication_year>
+                <original_publication_month type="integer">3</original_publication_month>
+                <original_publication_day type="integer">7</original_publication_day>
+                <average_rating>3.76</average_rating>
+                <best_book type="Book">
+                    <id type="integer">32714199</id>
+                    <title>The Craving Mind: From Cigarettes to Smartphones to Love – Why We Get Hooked and How We Can Break Bad Habits</title>
+                    <author>
+                        <id type="integer">16001247</id>
+                        <name>Judson Brewer</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478649316l/32714199._SX98_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478649316l/32714199._SX50_.jpg</small_image_url>
+                </best_book>
+            </work>
+
+            <work>
+                <id type="integer">403983</id>
+                <books_count type="integer">5</books_count>
+                <ratings_count type="integer">1758</ratings_count>
+                <text_reviews_count type="integer">209</text_reviews_count>
+                <original_publication_year type="integer">2007</original_publication_year>
+                <original_publication_month type="integer">4</original_publication_month>
+                <original_publication_day type="integer">12</original_publication_day>
+                <average_rating>4.00</average_rating>
+                <best_book type="Book">
+                    <id type="integer">414771</id>
+                    <title>Hooked: Write Fiction That Grabs Readers at Page One &amp; Never Lets Them Go</title>
+                    <author>
+                        <id type="integer">212322</id>
+                        <name>Les Edgerton</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408313466l/414771._SX98_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408313466l/414771._SX50_.jpg</small_image_url>
+                </best_book>
+            </work>
+
+            <work>
+                <id type="integer">70448591</id>
+                <books_count type="integer">1</books_count>
+                <ratings_count type="integer">568</ratings_count>
+                <text_reviews_count type="integer">65</text_reviews_count>
+                <original_publication_year type="integer" nil="true"/>
+                <original_publication_month type="integer" nil="true"/>
+                <original_publication_day type="integer" nil="true"/>
+                <average_rating>4.75</average_rating>
+                <best_book type="Book">
+                    <id type="integer">45688419</id>
+                    <title>Hooked On A Jewellz Thug Lovin’</title>
+                    <author>
+                        <id type="integer">16686993</id>
+                        <name>Khadijah J.</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559542252l/45688419._SX98_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559542252l/45688419._SY75_.jpg</small_image_url>
+                </best_book>
+            </work>
+
+            <work>
+                <id type="integer">59592355</id>
+                <books_count type="integer">1</books_count>
+                <ratings_count type="integer">827</ratings_count>
+                <text_reviews_count type="integer">134</text_reviews_count>
+                <original_publication_year type="integer" nil="true"/>
+                <original_publication_month type="integer" nil="true"/>
+                <original_publication_day type="integer" nil="true"/>
+                <average_rating>4.74</average_rating>
+                <best_book type="Book">
+                    <id type="integer">37886212</id>
+                    <title>Hooked: Addicted to A Supreme Love</title>
+                    <author>
+                        <id type="integer">6881657</id>
+                        <name>Bianca Marie</name>
+                    </author>
+                    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+                    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+                </best_book>
+            </work>
+
+            <work>
+                <id type="integer">59916893</id>
+                <books_count type="integer">1</books_count>
+                <ratings_count type="integer">719</ratings_count>
+                <text_reviews_count type="integer">113</text_reviews_count>
+                <original_publication_year type="integer" nil="true"/>
+                <original_publication_month type="integer" nil="true"/>
+                <original_publication_day type="integer" nil="true"/>
+                <average_rating>4.76</average_rating>
+                <best_book type="Book">
+                    <id type="integer">38234541</id>
+                    <title>Hooked 2: Addicted to A Supreme Love</title>
+                    <author>
+                        <id type="integer">6881657</id>
+                        <name>Bianca Marie</name>
+                    </author>
+                    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+                    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+                </best_book>
+            </work>
+
+            <work>
+                <id type="integer">60267016</id>
+                <books_count type="integer">1</books_count>
+                <ratings_count type="integer">630</ratings_count>
+                <text_reviews_count type="integer">95</text_reviews_count>
+                <original_publication_year type="integer" nil="true"/>
+                <original_publication_month type="integer" nil="true"/>
+                <original_publication_day type="integer" nil="true"/>
+                <average_rating>4.78</average_rating>
+                <best_book type="Book">
+                    <id type="integer">38655990</id>
+                    <title>Hooked 3: Addicted to A Supreme Love</title>
+                    <author>
+                        <id type="integer">6881657</id>
+                        <name>Bianca Marie</name>
+                    </author>
+                    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+                    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+                </best_book>
+            </work>
+
+            <work>
+                <id type="integer">71039283</id>
+                <books_count type="integer">1</books_count>
+                <ratings_count type="integer">509</ratings_count>
+                <text_reviews_count type="integer">61</text_reviews_count>
+                <original_publication_year type="integer" nil="true"/>
+                <original_publication_month type="integer" nil="true"/>
+                <original_publication_day type="integer" nil="true"/>
+                <average_rating>4.79</average_rating>
+                <best_book type="Book">
+                    <id type="integer">46117154</id>
+                    <title>Hooked On A Jewellz Thug Lovin’ 2</title>
+                    <author>
+                        <id type="integer">16686993</id>
+                        <name>Khadijah J.</name>
+                    </author>
+                    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+                    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+                </best_book>
+            </work>
+
+            <work>
+                <id type="integer">22027444</id>
+                <books_count type="integer">8</books_count>
+                <ratings_count type="integer">602</ratings_count>
+                <text_reviews_count type="integer">133</text_reviews_count>
+                <original_publication_year type="integer">2014</original_publication_year>
+                <original_publication_month type="integer">5</original_publication_month>
+                <original_publication_day type="integer">27</original_publication_day>
+                <average_rating>3.65</average_rating>
+                <best_book type="Book">
+                    <id type="integer">16177036</id>
+                    <title>Played (Hooked, #2)</title>
+                    <author>
+                        <id type="integer">4050842</id>
+                        <name>Liz Fichera</name>
+                    </author>
+                    <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391097927l/16177036._SX98_.jpg</image_url>
+                    <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391097927l/16177036._SY75_.jpg</small_image_url>
+                </best_book>
+            </work>
+
+            <work>
+                <id type="integer">83261727</id>
+                <books_count type="integer">3</books_count>
+                <ratings_count type="integer">1347</ratings_count>
+                <text_reviews_count type="integer">201</text_reviews_count>
+                <original_publication_year type="integer">2019</original_publication_year>
+                <original_publication_month type="integer">6</original_publication_month>
+                <original_publication_day type="integer">11</original_publication_day>
+                <average_rating>4.22</average_rating>
+                <best_book type="Book">
+                    <id type="integer">45011832</id>
+                    <title>Hooked (7th and Main, #2)</title>
+                    <author>
+                        <id type="integer">5251202</id>
+                        <name>Elizabeth   Hunter</name>
+                    </author>
+                    <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+                    <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+                </best_book>
+            </work>
+
+        </results>
+    </search>
+
+</GoodreadsResponse>
